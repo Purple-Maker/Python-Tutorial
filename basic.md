@@ -28,13 +28,8 @@ my_variable
 |'d'    |    |   |
 |'e'    |    |   |
 |eval      |X    |   |
-|enumerate      |✓    |   |
-```python
-for index,value in enumerate('abc'):
-```
-
+|enumerate      |✓    |  for index,value in enumerate('abc'): |
 |'f'    |    |   |
-|----------|-----|---|
 |'g'    |    |   |
 |'h'    |    |   |
 |'i'    |    |   |
