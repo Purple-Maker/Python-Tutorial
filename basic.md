@@ -28,7 +28,7 @@ my_variable
 |'d'    |    |   |
 |'e'    |    |   |
 |eval      |X    |   |
-|enumerate      |✓    |  for index,value in enumerate('abc'): |
+|enumerate      |✓    |  `for index,value in enumerate('abc'):` |
 |'f'    |    |   |
 |'g'    |    |   |
 |'h'    |    |   |
