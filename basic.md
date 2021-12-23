@@ -32,6 +32,7 @@ my_variable
 ```python
 for index,value in enumerate('abc'):
 ```
+|----------|-----|---|
 |'f'    |    |   |
 |'g'    |    |   |
 |'h'    |    |   |
