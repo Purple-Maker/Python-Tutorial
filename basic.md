@@ -10,6 +10,15 @@
 ### 制御文字
 - '\n'（换行） 
 
+### 例１
+```python
+my_variable = 'スイカ'
+my_variable *= 3
+#my_variable = my_variable*3
+my_variable
+```
+'スイカスイカスイカ'
+```
 ### 組み込み関数
 |組み込み関数|check|機能|
 |----------|-----|---|
